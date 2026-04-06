@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_hospital/static/css/main.c802b93c.css",
+    "main.css": "/react_hospital/static/css/main.c7f5c367.css",
     "main.js": "/react_hospital/static/js/main.6f322603.js",
     "static/js/453.0547c99f.chunk.js": "/react_hospital/static/js/453.0547c99f.chunk.js",
     "index.html": "/react_hospital/index.html",
-    "main.c802b93c.css.map": "/react_hospital/static/css/main.c802b93c.css.map",
+    "main.c7f5c367.css.map": "/react_hospital/static/css/main.c7f5c367.css.map",
     "main.6f322603.js.map": "/react_hospital/static/js/main.6f322603.js.map",
     "453.0547c99f.chunk.js.map": "/react_hospital/static/js/453.0547c99f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c802b93c.css",
+    "static/css/main.c7f5c367.css",
     "static/js/main.6f322603.js"
   ]
 }
